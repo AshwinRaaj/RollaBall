@@ -92,7 +92,7 @@ public class movement : MonoBehaviour
 
 ```
 ## Output:
-![](out.PNG)
+![](out.png)
 
 
 ## Result:
